@@ -103,5 +103,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: <repository url> https://github.com/Andre-110/myblog
+  repo: git@github.com:<Andre-110>/<Andre-110>.github.io/<myblog>.git
   branch: [branch]
